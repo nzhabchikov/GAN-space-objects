@@ -4,13 +4,13 @@
 
 Датасет собран через: https://deep-fold.itch.io/pixel-planet-generator
 
-![real objects](images\real.png "real objects")
+![real objects](images/real.png "real objects")
 ### DCGAN
-![dcgan generated](images\dcgan.png "dcgan generated")
+![dcgan generated](images/dcgan.png "dcgan generated")
 
 ### Self-Attention-GAN
 
-![self-attention-gan generated](images\self-attention-gan.png "self-attention-gan generated")
+![self-attention-gan generated](images/self-attention-gan.png "self-attention-gan generated")
 
 ### Sin-GAN
 В отличие от классических GAN, Sin-GAN обучается на одном изображении и может использоваться для решения задач гармонизации, анимации, редактирования изображения. Более подробно тут https://arxiv.org/pdf/1905.01164. 
